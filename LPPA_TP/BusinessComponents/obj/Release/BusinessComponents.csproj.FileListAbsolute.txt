@@ -1,0 +1,12 @@
+D:\LPPA_TP\BusinessComponents\bin\Release\BusinessComponents.dll
+D:\LPPA_TP\BusinessComponents\bin\Release\BusinessComponents.pdb
+D:\LPPA_TP\BusinessComponents\bin\Release\DataComponents.dll
+D:\LPPA_TP\BusinessComponents\bin\Release\Entities.dll
+D:\LPPA_TP\BusinessComponents\bin\Release\EntityFramework.dll
+D:\LPPA_TP\BusinessComponents\bin\Release\DataComponents.pdb
+D:\LPPA_TP\BusinessComponents\bin\Release\Entities.pdb
+D:\LPPA_TP\BusinessComponents\bin\Release\EntityFramework.xml
+D:\LPPA_TP\BusinessComponents\bin\Release\es\EntityFramework.resources.dll
+D:\LPPA_TP\BusinessComponents\obj\Release\BusinessComponents.csprojResolveAssemblyReference.cache
+D:\LPPA_TP\BusinessComponents\obj\Release\BusinessComponents.dll
+D:\LPPA_TP\BusinessComponents\obj\Release\BusinessComponents.pdb

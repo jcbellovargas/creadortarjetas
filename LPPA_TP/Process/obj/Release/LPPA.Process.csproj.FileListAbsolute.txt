@@ -1,0 +1,16 @@
+D:\LPPA_TP\Process\bin\Release\LPPA.Process.dll
+D:\LPPA_TP\Process\bin\Release\LPPA.Process.pdb
+D:\LPPA_TP\Process\bin\Release\BusinessComponents.dll
+D:\LPPA_TP\Process\bin\Release\Entities.dll
+D:\LPPA_TP\Process\bin\Release\Framework.dll
+D:\LPPA_TP\Process\bin\Release\DataComponents.dll
+D:\LPPA_TP\Process\bin\Release\EntityFramework.dll
+D:\LPPA_TP\Process\bin\Release\BusinessComponents.pdb
+D:\LPPA_TP\Process\bin\Release\Entities.pdb
+D:\LPPA_TP\Process\bin\Release\Framework.pdb
+D:\LPPA_TP\Process\bin\Release\DataComponents.pdb
+D:\LPPA_TP\Process\bin\Release\EntityFramework.xml
+D:\LPPA_TP\Process\bin\Release\es\EntityFramework.resources.dll
+D:\LPPA_TP\Process\obj\Release\LPPA.Process.csprojResolveAssemblyReference.cache
+D:\LPPA_TP\Process\obj\Release\LPPA.Process.dll
+D:\LPPA_TP\Process\obj\Release\LPPA.Process.pdb

@@ -1,0 +1,14 @@
+D:\LPPA_TP\DataComponents\bin\Release\DataComponents.dll.config
+D:\LPPA_TP\DataComponents\bin\Release\DataComponents.dll
+D:\LPPA_TP\DataComponents\bin\Release\DataComponents.pdb
+D:\LPPA_TP\DataComponents\bin\Release\Entities.dll
+D:\LPPA_TP\DataComponents\bin\Release\EntityFramework.dll
+D:\LPPA_TP\DataComponents\bin\Release\EntityFramework.SqlServer.dll
+D:\LPPA_TP\DataComponents\bin\Release\Entities.pdb
+D:\LPPA_TP\DataComponents\bin\Release\EntityFramework.xml
+D:\LPPA_TP\DataComponents\bin\Release\EntityFramework.SqlServer.xml
+D:\LPPA_TP\DataComponents\bin\Release\es\EntityFramework.resources.dll
+D:\LPPA_TP\DataComponents\bin\Release\es\EntityFramework.SqlServer.resources.dll
+D:\LPPA_TP\DataComponents\obj\Release\DataComponents.csprojResolveAssemblyReference.cache
+D:\LPPA_TP\DataComponents\obj\Release\DataComponents.dll
+D:\LPPA_TP\DataComponents\obj\Release\DataComponents.pdb

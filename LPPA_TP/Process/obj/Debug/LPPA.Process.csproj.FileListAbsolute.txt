@@ -1,0 +1,48 @@
+C:\Users\Jotace\documents\visual studio 2015\Projects\LPPA_TP\Process\bin\Debug\LPPA.Process.dll
+C:\Users\Jotace\documents\visual studio 2015\Projects\LPPA_TP\Process\bin\Debug\LPPA.Process.pdb
+C:\Users\Jotace\documents\visual studio 2015\Projects\LPPA_TP\Process\bin\Debug\BusinessComponents.dll
+C:\Users\Jotace\documents\visual studio 2015\Projects\LPPA_TP\Process\bin\Debug\DataComponents.dll
+C:\Users\Jotace\documents\visual studio 2015\Projects\LPPA_TP\Process\bin\Debug\Entities.dll
+C:\Users\Jotace\documents\visual studio 2015\Projects\LPPA_TP\Process\bin\Debug\EntityFramework.dll
+C:\Users\Jotace\documents\visual studio 2015\Projects\LPPA_TP\Process\bin\Debug\BusinessComponents.pdb
+C:\Users\Jotace\documents\visual studio 2015\Projects\LPPA_TP\Process\bin\Debug\DataComponents.pdb
+C:\Users\Jotace\documents\visual studio 2015\Projects\LPPA_TP\Process\bin\Debug\Entities.pdb
+C:\Users\Jotace\documents\visual studio 2015\Projects\LPPA_TP\Process\bin\Debug\EntityFramework.xml
+C:\Users\Jotace\documents\visual studio 2015\Projects\LPPA_TP\Process\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\Jotace\documents\visual studio 2015\Projects\LPPA_TP\Process\obj\Debug\LPPA.Process.csprojResolveAssemblyReference.cache
+C:\Users\Jotace\documents\visual studio 2015\Projects\LPPA_TP\Process\obj\Debug\LPPA.Process.dll
+C:\Users\Jotace\documents\visual studio 2015\Projects\LPPA_TP\Process\obj\Debug\LPPA.Process.pdb
+C:\Users\Jotace\documents\visual studio 2015\Projects\LPPA_TP\Process\bin\Debug\Framework.dll
+C:\Users\Jotace\documents\visual studio 2015\Projects\LPPA_TP\Process\bin\Debug\Framework.pdb
+D:\LPPA_TP\Process\bin\Debug\LPPA.Process.dll
+D:\LPPA_TP\Process\bin\Debug\LPPA.Process.pdb
+D:\LPPA_TP\Process\bin\Debug\BusinessComponents.dll
+D:\LPPA_TP\Process\bin\Debug\Entities.dll
+D:\LPPA_TP\Process\bin\Debug\Framework.dll
+D:\LPPA_TP\Process\bin\Debug\DataComponents.dll
+D:\LPPA_TP\Process\bin\Debug\EntityFramework.dll
+D:\LPPA_TP\Process\bin\Debug\BusinessComponents.pdb
+D:\LPPA_TP\Process\bin\Debug\Entities.pdb
+D:\LPPA_TP\Process\bin\Debug\Framework.pdb
+D:\LPPA_TP\Process\bin\Debug\DataComponents.pdb
+D:\LPPA_TP\Process\bin\Debug\EntityFramework.xml
+D:\LPPA_TP\Process\bin\Debug\es\EntityFramework.resources.dll
+D:\LPPA_TP\Process\obj\Debug\LPPA.Process.csprojResolveAssemblyReference.cache
+D:\LPPA_TP\Process\obj\Debug\LPPA.Process.dll
+D:\LPPA_TP\Process\obj\Debug\LPPA.Process.pdb
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\Process\bin\Debug\LPPA.Process.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\Process\bin\Debug\LPPA.Process.pdb
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\Process\bin\Debug\BusinessComponents.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\Process\bin\Debug\Entities.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\Process\bin\Debug\Framework.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\Process\bin\Debug\DataComponents.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\Process\bin\Debug\EntityFramework.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\Process\bin\Debug\BusinessComponents.pdb
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\Process\bin\Debug\Entities.pdb
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\Process\bin\Debug\Framework.pdb
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\Process\bin\Debug\DataComponents.pdb
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\Process\bin\Debug\EntityFramework.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\Process\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\Process\obj\Debug\LPPA.Process.csprojResolveAssemblyReference.cache
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\Process\obj\Debug\LPPA.Process.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\Process\obj\Debug\LPPA.Process.pdb

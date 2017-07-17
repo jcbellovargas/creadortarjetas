@@ -1,0 +1,75 @@
+﻿@model Entities.Solicitud
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Solicitud</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Nombre
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Persona.nombre)
+        </dd>
+
+        <dt>
+            Apellido
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Persona.apellido)
+        </dd>
+
+        <dt>
+            Entidad emisora
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.entidad_emisora)
+        </dd>
+
+        <dt>
+            Terminal
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Terminal.nombre)
+        </dd>
+
+        <dt>
+            Fecha solicitud
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fecha_solicitud)
+        </dd>
+
+        <dt>
+            Estado Tramite
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.estado_tramite)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.id_solicitud }) |
+    @Html.ActionLink("Back to List", "Index")
+    @if (Model.estado_tramite == "APROBADA")
+    {
+        @Html.ActionLink("Crear Tarjeta",  // link text
+                 "CreateCard", // action name
+                 "Solicitud",  // controller
+                 new { id = Model.id_solicitud }, // (optional) route values
+                 new { @class = "boton_crear btn btn-info" }) // html attributes
+    }
+    
+</p>

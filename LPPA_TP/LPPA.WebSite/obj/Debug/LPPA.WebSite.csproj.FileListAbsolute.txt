@@ -1,0 +1,339 @@
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\ApplicationInsights.config
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\roslyn\csc.exe
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\roslyn\System.Collections.Immutable.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\roslyn\vbc.exe
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\roslyn\VBCSCompiler.exe
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\roslyn\VBCSCompiler.exe.config
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\LPPA.WebSite.dll.config
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\LPPA.WebSite.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\LPPA.WebSite.pdb
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Antlr3.Runtime.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\BusinessComponents.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Entities.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\EntityFramework.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\EntityFramework.SqlServer.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.AI.Web.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.AI.WindowsServer.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.ApplicationInsights.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.Google.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.Web.Infrastructure.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Newtonsoft.Json.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Owin.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\System.Web.Helpers.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\System.Web.Mvc.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\System.Web.Optimization.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\System.Web.Razor.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\System.Web.WebPages.Deployment.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\System.Web.WebPages.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\System.Web.WebPages.Razor.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\WebGrease.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\BusinessComponents.pdb
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Entities.pdb
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.AI.Web.xml
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.AI.WindowsServer.xml
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.ApplicationInsights.xml
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\System.Web.Helpers.xml
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\System.Web.Mvc.xml
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\System.Web.Optimization.xml
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\System.Web.Razor.xml
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\System.Web.WebPages.xml
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\System.Web.WebPages.Deployment.xml
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\System.Web.WebPages.Razor.xml
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Antlr3.Runtime.pdb
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Newtonsoft.Json.xml
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\EntityFramework.xml
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\EntityFramework.SqlServer.xml
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.xml
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.xml
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.Google.xml
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\es\System.Web.Helpers.resources.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\es\System.Web.Mvc.resources.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\es\System.Web.Optimization.resources.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\es\System.Web.Razor.resources.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\es\System.Web.WebPages.resources.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\es\EntityFramework.resources.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\es\EntityFramework.SqlServer.resources.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\es\Microsoft.Owin.resources.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\es\Microsoft.Owin.Security.resources.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\es\Microsoft.Owin.Security.Google.resources.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\obj\Debug\LPPA.WebSite.csprojResolveAssemblyReference.cache
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\obj\Debug\LPPA.WebSite.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\obj\Debug\LPPA.WebSite.pdb
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\DataComponents.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\DataComponents.pdb
+C:\Users\Jotace\Documents\Visual Studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\log4net.dll
+C:\Users\Jotace\Documents\Visual Studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\log4net.xml
+C:\Users\Jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\LPPA.Process.dll
+C:\Users\Jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\LPPA.Process.pdb
+C:\Users\Jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Framework.dll
+C:\Users\Jotace\documents\visual studio 2015\Projects\LPPA_TP\LPPA.WebSite\bin\Framework.pdb
+D:\LPPA_TP\LPPA.WebSite\bin\ApplicationInsights.config
+D:\LPPA_TP\LPPA.WebSite\bin\roslyn\csc.exe
+D:\LPPA_TP\LPPA.WebSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LPPA_TP\LPPA.WebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LPPA_TP\LPPA.WebSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LPPA_TP\LPPA.WebSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LPPA_TP\LPPA.WebSite\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LPPA_TP\LPPA.WebSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LPPA_TP\LPPA.WebSite\bin\roslyn\System.Collections.Immutable.dll
+D:\LPPA_TP\LPPA.WebSite\bin\roslyn\System.Reflection.Metadata.dll
+D:\LPPA_TP\LPPA.WebSite\bin\roslyn\vbc.exe
+D:\LPPA_TP\LPPA.WebSite\bin\roslyn\VBCSCompiler.exe
+D:\LPPA_TP\LPPA.WebSite\bin\roslyn\VBCSCompiler.exe.config
+D:\LPPA_TP\LPPA.WebSite\bin\LPPA.WebSite.dll.config
+D:\LPPA_TP\LPPA.WebSite\bin\LPPA.WebSite.dll
+D:\LPPA_TP\LPPA.WebSite\bin\LPPA.WebSite.pdb
+D:\LPPA_TP\LPPA.WebSite\bin\Antlr3.Runtime.dll
+D:\LPPA_TP\LPPA.WebSite\bin\BusinessComponents.dll
+D:\LPPA_TP\LPPA.WebSite\bin\DataComponents.dll
+D:\LPPA_TP\LPPA.WebSite\bin\Entities.dll
+D:\LPPA_TP\LPPA.WebSite\bin\EntityFramework.dll
+D:\LPPA_TP\LPPA.WebSite\bin\EntityFramework.SqlServer.dll
+D:\LPPA_TP\LPPA.WebSite\bin\log4net.dll
+D:\LPPA_TP\LPPA.WebSite\bin\LPPA.Process.dll
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.AI.Agent.Intercept.dll
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.AI.DependencyCollector.dll
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.AI.Web.dll
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.AI.WindowsServer.dll
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.ApplicationInsights.dll
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.AspNet.Identity.Core.dll
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.dll
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.Cookies.dll
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.dll
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.Facebook.dll
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.Google.dll
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.OAuth.dll
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.Twitter.dll
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.Web.Infrastructure.dll
+D:\LPPA_TP\LPPA.WebSite\bin\Newtonsoft.Json.dll
+D:\LPPA_TP\LPPA.WebSite\bin\Owin.dll
+D:\LPPA_TP\LPPA.WebSite\bin\System.Web.Helpers.dll
+D:\LPPA_TP\LPPA.WebSite\bin\System.Web.Mvc.dll
+D:\LPPA_TP\LPPA.WebSite\bin\System.Web.Optimization.dll
+D:\LPPA_TP\LPPA.WebSite\bin\System.Web.Razor.dll
+D:\LPPA_TP\LPPA.WebSite\bin\System.Web.WebPages.Deployment.dll
+D:\LPPA_TP\LPPA.WebSite\bin\System.Web.WebPages.dll
+D:\LPPA_TP\LPPA.WebSite\bin\System.Web.WebPages.Razor.dll
+D:\LPPA_TP\LPPA.WebSite\bin\WebGrease.dll
+D:\LPPA_TP\LPPA.WebSite\bin\Framework.dll
+D:\LPPA_TP\LPPA.WebSite\bin\BusinessComponents.pdb
+D:\LPPA_TP\LPPA.WebSite\bin\DataComponents.pdb
+D:\LPPA_TP\LPPA.WebSite\bin\Entities.pdb
+D:\LPPA_TP\LPPA.WebSite\bin\LPPA.Process.pdb
+D:\LPPA_TP\LPPA.WebSite\bin\log4net.xml
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.AI.DependencyCollector.xml
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.AI.Web.xml
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.AI.WindowsServer.xml
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.ApplicationInsights.xml
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LPPA_TP\LPPA.WebSite\bin\System.Web.Helpers.xml
+D:\LPPA_TP\LPPA.WebSite\bin\System.Web.Mvc.xml
+D:\LPPA_TP\LPPA.WebSite\bin\System.Web.Optimization.xml
+D:\LPPA_TP\LPPA.WebSite\bin\System.Web.Razor.xml
+D:\LPPA_TP\LPPA.WebSite\bin\System.Web.WebPages.xml
+D:\LPPA_TP\LPPA.WebSite\bin\System.Web.WebPages.Deployment.xml
+D:\LPPA_TP\LPPA.WebSite\bin\System.Web.WebPages.Razor.xml
+D:\LPPA_TP\LPPA.WebSite\bin\Antlr3.Runtime.pdb
+D:\LPPA_TP\LPPA.WebSite\bin\Newtonsoft.Json.xml
+D:\LPPA_TP\LPPA.WebSite\bin\EntityFramework.xml
+D:\LPPA_TP\LPPA.WebSite\bin\EntityFramework.SqlServer.xml
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.AspNet.Identity.Core.xml
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.xml
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.xml
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.Facebook.xml
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.Cookies.xml
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.OAuth.xml
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.Google.xml
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.Twitter.xml
+D:\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\LPPA_TP\LPPA.WebSite\bin\Framework.pdb
+D:\LPPA_TP\LPPA.WebSite\bin\es\System.Web.Helpers.resources.dll
+D:\LPPA_TP\LPPA.WebSite\bin\es\System.Web.Mvc.resources.dll
+D:\LPPA_TP\LPPA.WebSite\bin\es\System.Web.Optimization.resources.dll
+D:\LPPA_TP\LPPA.WebSite\bin\es\System.Web.Razor.resources.dll
+D:\LPPA_TP\LPPA.WebSite\bin\es\System.Web.WebPages.resources.dll
+D:\LPPA_TP\LPPA.WebSite\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\LPPA_TP\LPPA.WebSite\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\LPPA_TP\LPPA.WebSite\bin\es\EntityFramework.resources.dll
+D:\LPPA_TP\LPPA.WebSite\bin\es\EntityFramework.SqlServer.resources.dll
+D:\LPPA_TP\LPPA.WebSite\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\LPPA_TP\LPPA.WebSite\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\LPPA_TP\LPPA.WebSite\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\LPPA_TP\LPPA.WebSite\bin\es\Microsoft.Owin.resources.dll
+D:\LPPA_TP\LPPA.WebSite\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\LPPA_TP\LPPA.WebSite\bin\es\Microsoft.Owin.Security.resources.dll
+D:\LPPA_TP\LPPA.WebSite\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\LPPA_TP\LPPA.WebSite\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\LPPA_TP\LPPA.WebSite\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\LPPA_TP\LPPA.WebSite\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\LPPA_TP\LPPA.WebSite\obj\Debug\LPPA.WebSite.csprojResolveAssemblyReference.cache
+D:\LPPA_TP\LPPA.WebSite\obj\Debug\LPPA.WebSite.dll
+D:\LPPA_TP\LPPA.WebSite\obj\Debug\LPPA.WebSite.pdb
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\ApplicationInsights.config
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\roslyn\csc.exe
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\roslyn\vbc.exe
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\LPPA.WebSite.dll.config
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\LPPA.WebSite.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\LPPA.WebSite.pdb
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Antlr3.Runtime.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\BusinessComponents.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\DataComponents.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Entities.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\EntityFramework.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\EntityFramework.SqlServer.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\log4net.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\LPPA.Process.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.AI.Web.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Newtonsoft.Json.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Owin.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\System.Web.Helpers.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\System.Web.Mvc.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\System.Web.Optimization.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\System.Web.Razor.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\System.Web.WebPages.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\WebGrease.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Framework.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\BusinessComponents.pdb
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\DataComponents.pdb
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Entities.pdb
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\LPPA.Process.pdb
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\log4net.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.AI.Web.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\System.Web.Helpers.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\System.Web.Mvc.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\System.Web.Optimization.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\System.Web.Razor.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\System.Web.WebPages.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Antlr3.Runtime.pdb
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Newtonsoft.Json.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\EntityFramework.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\EntityFramework.SqlServer.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\Framework.pdb
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\es\System.Web.Razor.resources.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\es\EntityFramework.resources.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\obj\Debug\LPPA.WebSite.csprojResolveAssemblyReference.cache
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\obj\Debug\LPPA.WebSite.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\LPPA.WebSite\obj\Debug\LPPA.WebSite.pdb

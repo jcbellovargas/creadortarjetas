@@ -1,0 +1,67 @@
+﻿@model IEnumerable<Entities.Solicitud>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            <!-- @Html.DisplayNameFor(model => model.Persona.nombre)-->
+            Nombre
+        </th>
+        <th>
+            <!-- @Html.DisplayNameFor(model => model.Persona.apellido) -->
+            Cliente
+        </th>
+        <th>
+            Entidad emisora
+        </th>
+        <th>
+            Terminal
+        </th>
+        <th>
+            <!-- @Html.DisplayNameFor(model => model.fecha_solicitud) -->
+            Fecha Solicitud
+        </th>
+        <th>
+            <!-- @Html.DisplayNameFor(model => model.estado_tramite) -->
+            Estado Tramite
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Persona.nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Persona.apellido)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.entidad_emisora)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Terminal.nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.fecha_solicitud)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.estado_tramite)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.id_solicitud }) |
+            @Html.ActionLink("Details", "Details", new { id=item.id_solicitud }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.id_solicitud })
+        </td>
+    </tr>
+}
+
+</table>

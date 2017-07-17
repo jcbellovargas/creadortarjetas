@@ -1,0 +1,5 @@
+D:\LPPA_TP\Framework\bin\Release\Framework.dll
+D:\LPPA_TP\Framework\bin\Release\Framework.pdb
+D:\LPPA_TP\Framework\obj\Release\Framework.csprojResolveAssemblyReference.cache
+D:\LPPA_TP\Framework\obj\Release\Framework.dll
+D:\LPPA_TP\Framework\obj\Release\Framework.pdb

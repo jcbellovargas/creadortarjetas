@@ -1,0 +1,36 @@
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\BusinessComponents\bin\Debug\BusinessComponents.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\BusinessComponents\bin\Debug\BusinessComponents.pdb
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\BusinessComponents\obj\Debug\BusinessComponents.csprojResolveAssemblyReference.cache
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\BusinessComponents\obj\Debug\BusinessComponents.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\BusinessComponents\obj\Debug\BusinessComponents.pdb
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\BusinessComponents\bin\Debug\DataComponents.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\BusinessComponents\bin\Debug\Entities.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\BusinessComponents\bin\Debug\EntityFramework.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\BusinessComponents\bin\Debug\DataComponents.pdb
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\BusinessComponents\bin\Debug\Entities.pdb
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\BusinessComponents\bin\Debug\EntityFramework.xml
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\BusinessComponents\bin\Debug\es\EntityFramework.resources.dll
+D:\LPPA_TP\BusinessComponents\bin\Debug\BusinessComponents.dll
+D:\LPPA_TP\BusinessComponents\bin\Debug\BusinessComponents.pdb
+D:\LPPA_TP\BusinessComponents\bin\Debug\DataComponents.dll
+D:\LPPA_TP\BusinessComponents\bin\Debug\Entities.dll
+D:\LPPA_TP\BusinessComponents\bin\Debug\EntityFramework.dll
+D:\LPPA_TP\BusinessComponents\bin\Debug\DataComponents.pdb
+D:\LPPA_TP\BusinessComponents\bin\Debug\Entities.pdb
+D:\LPPA_TP\BusinessComponents\bin\Debug\EntityFramework.xml
+D:\LPPA_TP\BusinessComponents\bin\Debug\es\EntityFramework.resources.dll
+D:\LPPA_TP\BusinessComponents\obj\Debug\BusinessComponents.csprojResolveAssemblyReference.cache
+D:\LPPA_TP\BusinessComponents\obj\Debug\BusinessComponents.dll
+D:\LPPA_TP\BusinessComponents\obj\Debug\BusinessComponents.pdb
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\BusinessComponents\bin\Debug\BusinessComponents.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\BusinessComponents\bin\Debug\BusinessComponents.pdb
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\BusinessComponents\bin\Debug\DataComponents.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\BusinessComponents\bin\Debug\Entities.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\BusinessComponents\bin\Debug\EntityFramework.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\BusinessComponents\bin\Debug\DataComponents.pdb
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\BusinessComponents\bin\Debug\Entities.pdb
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\BusinessComponents\bin\Debug\EntityFramework.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\BusinessComponents\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\BusinessComponents\obj\Debug\BusinessComponents.csprojResolveAssemblyReference.cache
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\BusinessComponents\obj\Debug\BusinessComponents.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\BusinessComponents\obj\Debug\BusinessComponents.pdb

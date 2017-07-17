@@ -1,0 +1,12 @@
+D:\LPPA_TP\Entities\bin\Release\Entities.dll.config
+D:\LPPA_TP\Entities\bin\Release\Entities.dll
+D:\LPPA_TP\Entities\bin\Release\Entities.pdb
+D:\LPPA_TP\Entities\bin\Release\EntityFramework.dll
+D:\LPPA_TP\Entities\bin\Release\EntityFramework.SqlServer.dll
+D:\LPPA_TP\Entities\bin\Release\EntityFramework.xml
+D:\LPPA_TP\Entities\bin\Release\EntityFramework.SqlServer.xml
+D:\LPPA_TP\Entities\bin\Release\es\EntityFramework.resources.dll
+D:\LPPA_TP\Entities\bin\Release\es\EntityFramework.SqlServer.resources.dll
+D:\LPPA_TP\Entities\obj\Release\Entities.csprojResolveAssemblyReference.cache
+D:\LPPA_TP\Entities\obj\Release\Entities.dll
+D:\LPPA_TP\Entities\obj\Release\Entities.pdb

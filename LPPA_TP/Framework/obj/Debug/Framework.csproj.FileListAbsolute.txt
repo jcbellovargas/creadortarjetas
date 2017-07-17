@@ -1,0 +1,10 @@
+C:\Users\Jotace\documents\visual studio 2015\Projects\LPPA_TP\Framework\bin\Debug\Framework.dll
+C:\Users\Jotace\documents\visual studio 2015\Projects\LPPA_TP\Framework\bin\Debug\Framework.pdb
+C:\Users\Jotace\documents\visual studio 2015\Projects\LPPA_TP\Framework\obj\Debug\Framework.csprojResolveAssemblyReference.cache
+C:\Users\Jotace\documents\visual studio 2015\Projects\LPPA_TP\Framework\obj\Debug\Framework.dll
+C:\Users\Jotace\documents\visual studio 2015\Projects\LPPA_TP\Framework\obj\Debug\Framework.pdb
+D:\LPPA_TP\Framework\bin\Debug\Framework.dll
+D:\LPPA_TP\Framework\bin\Debug\Framework.pdb
+D:\LPPA_TP\Framework\obj\Debug\Framework.dll
+D:\LPPA_TP\Framework\obj\Debug\Framework.pdb
+D:\LPPA_TP\Framework\obj\Debug\Framework.csprojResolveAssemblyReference.cache

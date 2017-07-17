@@ -1,0 +1,129 @@
+﻿@model IEnumerable<Entities.Tarjeta>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Solicitud.estado_tramite)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nombre_titular)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nro_tarjeta)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.cod_seguridad)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fecha_emision)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fecha_vencimiento)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.entidad_emisora)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.extension_de)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.limite_credito)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RowId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CreatedOn)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CreatedBy)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ChangedOn)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ChangedBy)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DeletedOn)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DeletedBy)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsDeleted)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Solicitud.estado_tramite)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.nombre_titular)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.nro_tarjeta)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.cod_seguridad)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.fecha_emision)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.fecha_vencimiento)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.entidad_emisora)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.extension_de)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.limite_credito)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RowId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CreatedOn)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CreatedBy)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ChangedOn)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ChangedBy)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DeletedOn)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DeletedBy)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.IsDeleted)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.id_tarjeta }) |
+            @Html.ActionLink("Details", "Details", new { id=item.id_tarjeta }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.id_tarjeta })
+        </td>
+    </tr>
+}
+
+</table>

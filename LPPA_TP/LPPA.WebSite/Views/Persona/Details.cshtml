@@ -1,0 +1,178 @@
+﻿@model Entities.Persona
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Persona</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Banco.nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Banco.nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Persona2.nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Persona2.nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.apellido)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.apellido)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.fecha_nacimiento)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fecha_nacimiento)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.sexo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.sexo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.tipo_documento)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tipo_documento)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.nro_documento)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nro_documento)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.domicilio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.domicilio)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.situacion_laboral)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.situacion_laboral)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ingreso_promedio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ingreso_promedio)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.documentacion_adjunta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.documentacion_adjunta)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.RowId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RowId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CreatedOn)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CreatedOn)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CreatedBy)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CreatedBy)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ChangedOn)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ChangedOn)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ChangedBy)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ChangedBy)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DeletedOn)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DeletedOn)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DeletedBy)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DeletedBy)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IsDeleted)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IsDeleted)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.id_persona }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

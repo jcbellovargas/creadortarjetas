@@ -1,0 +1,42 @@
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\DataComponents\bin\Debug\DataComponents.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\DataComponents\bin\Debug\DataComponents.pdb
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\DataComponents\obj\Debug\DataComponents.csprojResolveAssemblyReference.cache
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\DataComponents\obj\Debug\DataComponents.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\DataComponents\obj\Debug\DataComponents.pdb
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\DataComponents\bin\Debug\DataComponents.dll.config
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\DataComponents\bin\Debug\Entities.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\DataComponents\bin\Debug\EntityFramework.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\DataComponents\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\DataComponents\bin\Debug\Entities.pdb
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\DataComponents\bin\Debug\EntityFramework.xml
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\DataComponents\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\DataComponents\bin\Debug\es\EntityFramework.resources.dll
+c:\users\jotace\documents\visual studio 2015\Projects\LPPA_TP\DataComponents\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+D:\LPPA_TP\DataComponents\bin\Debug\DataComponents.dll.config
+D:\LPPA_TP\DataComponents\bin\Debug\DataComponents.dll
+D:\LPPA_TP\DataComponents\bin\Debug\DataComponents.pdb
+D:\LPPA_TP\DataComponents\bin\Debug\Entities.dll
+D:\LPPA_TP\DataComponents\bin\Debug\EntityFramework.dll
+D:\LPPA_TP\DataComponents\bin\Debug\EntityFramework.SqlServer.dll
+D:\LPPA_TP\DataComponents\bin\Debug\Entities.pdb
+D:\LPPA_TP\DataComponents\bin\Debug\EntityFramework.xml
+D:\LPPA_TP\DataComponents\bin\Debug\EntityFramework.SqlServer.xml
+D:\LPPA_TP\DataComponents\bin\Debug\es\EntityFramework.resources.dll
+D:\LPPA_TP\DataComponents\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+D:\LPPA_TP\DataComponents\obj\Debug\DataComponents.csprojResolveAssemblyReference.cache
+D:\LPPA_TP\DataComponents\obj\Debug\DataComponents.dll
+D:\LPPA_TP\DataComponents\obj\Debug\DataComponents.pdb
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\DataComponents\bin\Debug\DataComponents.dll.config
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\DataComponents\bin\Debug\DataComponents.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\DataComponents\bin\Debug\DataComponents.pdb
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\DataComponents\bin\Debug\Entities.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\DataComponents\bin\Debug\EntityFramework.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\DataComponents\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\DataComponents\bin\Debug\Entities.pdb
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\DataComponents\bin\Debug\EntityFramework.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\DataComponents\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\DataComponents\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\DataComponents\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\DataComponents\obj\Debug\DataComponents.csprojResolveAssemblyReference.cache
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\DataComponents\obj\Debug\DataComponents.dll
+C:\Users\Jotace\Desktop\facu\LPPA2017\TRABAJO PRACTICO\deploy v\LPPA_TP\DataComponents\obj\Debug\DataComponents.pdb

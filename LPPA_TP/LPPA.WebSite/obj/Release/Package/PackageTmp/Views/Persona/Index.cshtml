@@ -1,0 +1,99 @@
+﻿@model IEnumerable<Entities.Persona>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Banco.nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Persona2.nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.apellido)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fecha_nacimiento)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.sexo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.tipo_documento)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nro_documento)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.domicilio)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.situacion_laboral)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ingreso_promedio)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.documentacion_adjunta)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Banco.nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Persona2.nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.apellido)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.fecha_nacimiento)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.sexo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.tipo_documento)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.nro_documento)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.domicilio)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.situacion_laboral)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ingreso_promedio)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.documentacion_adjunta)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.id_persona }) |
+            @Html.ActionLink("Details", "Details", new { id=item.id_persona }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.id_persona })
+        </td>
+    </tr>
+}
+
+</table>
